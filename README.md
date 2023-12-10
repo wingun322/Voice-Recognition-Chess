@@ -56,7 +56,9 @@ The project has made it possible to play chess on the console with just voice.
 3. 다음 사람의 턴으로 넘어갑니다.
 #### Voice version
 <img src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation1.JPG">
+
 #### Text version
 <img src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation2.JPG">
+
 #### Implementation Video
 https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/implementation.mp4
