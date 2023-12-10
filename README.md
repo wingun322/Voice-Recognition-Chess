@@ -57,4 +57,6 @@ The project has made it possible to play chess on the console with just voice.
 #### Voice version
 <img src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation1.JPG">
 #### Text version
-Mimg src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation2.JPG">
+<img src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation2.JPG">
+#### Implementation Video
+https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/implementation.mp4
