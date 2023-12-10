@@ -62,3 +62,9 @@ The project has made it possible to play chess on the console with just voice.
 
 #### Implementation Video
 https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/implementation.mp4
+### Reference
+https://github.com/winning-smile/Console_Chess
+https://github.com/nsodickson/Python-Chess
+https://github.com/samKHa92/ConsoleChess
+### Open Source Lisence
+**BSD-3**
