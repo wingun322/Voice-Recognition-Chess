@@ -54,4 +54,7 @@ The project has made it possible to play chess on the console with just voice.
 1. 처음에는 음성으로 할지 텍스트로 할지 정할 수 있습니다.
 2. 움직일 말의 시작위치를 입력하고 다음 끝 위치를 입력하면 됩니다.
 3. 다음 사람의 턴으로 넘어갑니다.
+#### Voice version
 <img src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation1.JPG">
+#### Text version
+Mimg src="https://github.com/wingun322/Voice-Recognition-Chess/blob/main/img/Implementation2.JPG">
